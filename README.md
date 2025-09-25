@@ -19,7 +19,7 @@ The primary objectives accomplished in this notebook are:
 ## Datasets Used
 
 -   **Nations:** A small knowledge graph with 14 entities (countries), 55 relations (political relationships), and 1,992 triples.
--   **Kinships:** A dataset describing kinship relationships between 104 members of the Australian Alyawarra tribe with 26 relationship types and 10,686 triples.
+-   **Kinships:** The Kinships dataset describes relationships between members of the Australian tribe Alyawarra and consists of 10,686 triples. It contains 104 entities representing members of the tribe and 26 relationship types that represent kinship terms such as Adiadya or Umbaidya.
 
 ---
 
